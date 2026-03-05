@@ -23,7 +23,7 @@ This project was built from scratch utilizing pure Python logic and Tkinter/Pyga
    ```
 2. Run the main script from your terminal:
    ```bash
-   python snake_2.py
+   python snake.py
    ```
 3. **Controls**: Use the arrow keys (`UP`, `DOWN`, `LEFT`, `RIGHT`) to navigate the snake and collect food. Close the application window to exit.
 
